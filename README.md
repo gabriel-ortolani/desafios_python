@@ -12,10 +12,10 @@ Um joguinho onde o usuário escolhe par ou ímpar, digita um número e o computa
 ### 2. Adivinhe o Número
 O computador escolhe um número aleatório de 1 a 20, e o usuário precisa adivinhar. O programa informa se o palpite foi alto ou baixo até acertar.
 
-### 4. Lista de Compras
+### 3. Lista de Compras
 Um pequeno sistema de lista de compras com opções para adicionar, remover e visualizar itens. Feito usando listas e laços `while`.
 
-### 5. Verificador de Palíndromo
+### 4. Verificador de Palíndromo
 Programa que verifica se uma palavra ou frase é um palíndromo, desconsiderando espaços e letras maiúsculas.
 
 ---
