@@ -74,4 +74,7 @@ Utiliza `random.choices()` e embaralha os caracteres para evitar padrões previs
   ```bash
    python --version
   ```
-2. Entre no terminal e escreva Python e o nome do arquivo escolhido **Ex: Python ParOuImpar.py**
+2. Entre no terminal e escreva Python e o nome do arquivo escolhido. Ex:
+   ```bash
+   Python ParOuImpar.py
+   ```
